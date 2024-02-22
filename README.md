@@ -1,1 +1,2 @@
 # Memoria Rom de 16x8 (128bits)
+Código de una ROM de 16x8 (128bits) donde se guardan los equivalentes a números hexadecimales (1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E y F)para mostrarse un display de 4x7 segmentos de anodo común. Los datos para quese muestren son seleccionados por un selector que consta de 4 switches.
